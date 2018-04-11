@@ -9,11 +9,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSdovOaDBTeqhMf5vUIacd4In7ye3bYo3-TnXtS9
 <!DOCTYPE html>
 <html>
 <head>
-<title>画像</title>
 <meta charset="utf-8">
 </head>
 <body>
-      <a href="https://www.ja.wikipedia.org/wiki/Google"><img src="DSC_0448.JPG" alt="ディスプレイ"/></a>
-      <img src="DSC_0448.JPG" alt="ディスプレイ"/>
+      <a href="https://www.ja.wikipedia.org/wiki/Google"><img src="lgi01a201406191000.jpg"/></a>
 </body>
 </html>
